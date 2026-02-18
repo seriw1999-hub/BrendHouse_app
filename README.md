@@ -1,5 +1,4 @@
 
-
 Quick start:
 
 1. Unzip and `cd ders6_updated`
@@ -8,3 +7,4 @@ Quick start:
 4. Adjust MySQL password in `app.js` if needed.
 5. `npm run dev` or `npm start`
 6. Open http://localhost:3000
+7. 
